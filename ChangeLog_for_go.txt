@@ -22,5 +22,5 @@
 <li> Bugs fixes and speed improvements...</li>
 
 
-","url":"https://soula107.blogspot.com/2019/08/wago.html"
+","url":"https://github.com/hiishh/hgo9x"
 }

@@ -1,0 +1,16 @@
+{"version_code":453597,"content":"
+<p> تحديث|Update 0.20.50L</p>
+
+
+<li> New Base Updated to 2.20.157 Stable Base.</li>
+<li> Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp (2.20.14X and up)</li>
+<li> Enabled All hidden features.</li>
+<li> Ability to Send Messages to unsaved Number</li>
+<li> Fixed Force Close on Some Devices.</li>
+<li> Fixed unable Opening app after enable pirvacy options on Some Devices.</li>
+<li> Fixed All bugs in package2 (com.wago)</li>
+<li> Bugs fixes and speed improvements...</li>
+
+
+","url":"https://soula107.blogspot.com/2019/08/wago.html"
+}

@@ -1,5 +1,5 @@
-{"version_code":453598,"content":"
-<p> تحديث|Update 0.20.60L</p>
+{"version_code":453597,"content":"
+<p> تحديث|Update 0.20.50L</p>
 
 
 <li> التحديث لنسخة الماركت 2.20.157 المستقرة</li>
@@ -11,7 +11,7 @@
 <li> اصلاح كافة المشاكل الموجودة في النسخة 2</li>
 <li> اصلاحات متعلقة باستقرار التطبيق</li>
 
-
+<li> Translation fix by h98hmods</li>
 <li> New Base Updated to 2.20.157 Stable Base.</li>
 <li> Group video and voice calls now support up to 8 participants. All participants need to be on the latest version of WhatsApp (2.20.14X and up)</li>
 <li> Enabled All hidden features.</li>
